@@ -494,5 +494,13 @@
     "streams_used": 7,
     "source": "telenet",
     "server": "netgauge.telenet.be.prod.hosts.ooklaserver.net"
+  },
+  {
+    "timestamp": "2025-04-14T14:33:59.227733+00:00",
+    "download_mbps": 525.45,
+    "peak_mbps": 740.71,
+    "streams_used": 10,
+    "source": "telenet",
+    "server": "netgauge.telenet.be.prod.hosts.ooklaserver.net"
   }
 ]
