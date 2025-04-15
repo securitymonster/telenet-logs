@@ -1126,5 +1126,61 @@
     "streams_used": 10,
     "source": "telenet",
     "server": "netgauge.telenet.be.prod.hosts.ooklaserver.net"
+  },
+  {
+    "timestamp": "2025-04-15T08:09:25.321591+00:00",
+    "download_mbps": 536.97,
+    "peak_mbps": 771.69,
+    "streams_used": 10,
+    "source": "telenet",
+    "server": "netgauge.telenet.be.prod.hosts.ooklaserver.net"
+  },
+  {
+    "timestamp": "2025-04-15T09:10:16.514244+00:00",
+    "download_mbps": 555.25,
+    "peak_mbps": 799.88,
+    "streams_used": 10,
+    "source": "telenet",
+    "server": "netgauge.telenet.be.prod.hosts.ooklaserver.net"
+  },
+  {
+    "timestamp": "2025-04-15T10:11:08.281941+00:00",
+    "download_mbps": 546.37,
+    "peak_mbps": 792.53,
+    "streams_used": 10,
+    "source": "telenet",
+    "server": "netgauge.telenet.be.prod.hosts.ooklaserver.net"
+  },
+  {
+    "timestamp": "2025-04-15T11:11:59.361969+00:00",
+    "download_mbps": 568.3,
+    "peak_mbps": 790.55,
+    "streams_used": 10,
+    "source": "telenet",
+    "server": "netgauge.telenet.be.prod.hosts.ooklaserver.net"
+  },
+  {
+    "timestamp": "2025-04-15T12:12:50.466506+00:00",
+    "download_mbps": 581.01,
+    "peak_mbps": 762.32,
+    "streams_used": 10,
+    "source": "telenet",
+    "server": "netgauge.telenet.be.prod.hosts.ooklaserver.net"
+  },
+  {
+    "timestamp": "2025-04-15T13:13:42.733951+00:00",
+    "download_mbps": 325.92,
+    "peak_mbps": 678.09,
+    "streams_used": 10,
+    "source": "telenet",
+    "server": "netgauge.telenet.be.prod.hosts.ooklaserver.net"
+  },
+  {
+    "timestamp": "2025-04-15T14:14:33.663848+00:00",
+    "download_mbps": 569.99,
+    "peak_mbps": 816.11,
+    "streams_used": 10,
+    "source": "telenet",
+    "server": "netgauge.telenet.be.prod.hosts.ooklaserver.net"
   }
 ]
